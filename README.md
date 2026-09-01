@@ -16,7 +16,7 @@ Anti-gravity gemini and claude, helps make a simple esp. since you gave it enoug
 ->
   - **Extra MODULES** ``SOON``
   ->
-    - **BYPASS AntiCheats** ``SOON``
+    - **BYPASS** ``SOON``
 
 
 --- 
