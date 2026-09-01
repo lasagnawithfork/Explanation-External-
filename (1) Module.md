@@ -189,7 +189,7 @@ int main()
 ---
 ### The startup
 
-We build the project and check if anything works If you get any errors, check whether your project is using the right character set since Unicode settings can sometimes cause issues. Also, make sure youre using a recent C++ standard, like ``C++20`` or newer
+We build the project and check if anything works If you get any issues like errors, check whether your project is using the right character set since Unicode settings can sometimes cause issues. Also, make sure youre using a recent C++ standard, like ``C++20`` or newer
 
 Once you're done, make sure the process is running (Roblox) which we wrote (RobloxPlayerBeta.exe) is running,  launch the program, and watch it find the base address.
 
